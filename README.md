@@ -1,1 +1,3 @@
-# parliament-browser
+- Har endast en Flatlist med ledamöter som utnyttjar RNE, började implementera Expo Router men fick så mycket problem med beroenden så jag fick det inte att fungera.
+- Använde AI några enstaka gånger för att förklara felmeddelanden, antingen då appen kraschade eller om beroendena inte fungerade.
+- Appen använder version SDK 54
