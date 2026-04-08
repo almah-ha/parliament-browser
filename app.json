@@ -3,6 +3,8 @@
     "name": "parliament-browser",
     "slug": "parliament-browser",
     "version": "1.0.0",
+    "scheme": "your-app-scheme",
+    "experiments": { "typedRoutes": true },
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
